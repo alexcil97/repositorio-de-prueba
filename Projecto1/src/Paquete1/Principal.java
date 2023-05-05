@@ -6,6 +6,7 @@ public class Principal {
 		// TODO Auto-generated method stub
 		System.out.println("esto es un ejemplo de repositorio en git");
 		System.out.println("esta es una segunda linea");
+		System.out.println("tercera linea");
 	}
 
 }
